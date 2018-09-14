@@ -84,6 +84,6 @@ int main()
 	//Output
 	cout << "The hotel has " << totalRooms << " rooms. " << totalOccupied << " of them are occupied, leaving " << unoccupied << " unoccupied rooms.\n";
 	cout << "the hotel is " << percentage << "% full.\n";
-
+	//cin >> rooms;
 	return 0;
 }
