@@ -15,12 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="S:\Programming\pch.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="PointerExamples.cpp">
+    <ClCompile Include="travelExpenses.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
