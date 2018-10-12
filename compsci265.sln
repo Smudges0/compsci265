@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Winning Division", "a2\a2.v
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Group Project 1", "Group Project 1\Group Project 1.vcxproj", "{09DFDC06-5572-4675-AF9F-00AAB3761807}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Rainfall Statistics", "Rainfall Statistics\Rainfall Statistics.vcxproj", "{D9AECC84-6375-44FD-8278-1006C6A6A020}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{09DFDC06-5572-4675-AF9F-00AAB3761807}.Release|x64.Build.0 = Release|x64
 		{09DFDC06-5572-4675-AF9F-00AAB3761807}.Release|x86.ActiveCfg = Release|Win32
 		{09DFDC06-5572-4675-AF9F-00AAB3761807}.Release|x86.Build.0 = Release|Win32
+		{D9AECC84-6375-44FD-8278-1006C6A6A020}.Debug|x64.ActiveCfg = Debug|x64
+		{D9AECC84-6375-44FD-8278-1006C6A6A020}.Debug|x64.Build.0 = Debug|x64
+		{D9AECC84-6375-44FD-8278-1006C6A6A020}.Debug|x86.ActiveCfg = Debug|Win32
+		{D9AECC84-6375-44FD-8278-1006C6A6A020}.Debug|x86.Build.0 = Debug|Win32
+		{D9AECC84-6375-44FD-8278-1006C6A6A020}.Release|x64.ActiveCfg = Release|x64
+		{D9AECC84-6375-44FD-8278-1006C6A6A020}.Release|x64.Build.0 = Release|x64
+		{D9AECC84-6375-44FD-8278-1006C6A6A020}.Release|x86.ActiveCfg = Release|Win32
+		{D9AECC84-6375-44FD-8278-1006C6A6A020}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
