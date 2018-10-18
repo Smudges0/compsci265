@@ -32,6 +32,7 @@ double getAverageRainfall(double[]);
 bool isValidRainAmount(double);
 void testAll();
 
+
 /*-------------------------
  * Main function, change runTest to true in order to activate testing
  *-------------------------*/
